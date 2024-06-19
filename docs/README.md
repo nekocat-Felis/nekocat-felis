@@ -12,7 +12,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/nekocat-Felis/contributions.svg" />
   </a>
   <a href="https://zenn.dev/nekocat-Felis">
-    <img height="20" src="https://badgen.org/img/zenn/nekocat-Felis/articles?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/nekocatfelis/articles?style=plastic" />
   </a>
 </p>
 
