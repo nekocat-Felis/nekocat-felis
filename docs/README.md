@@ -27,3 +27,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nekocat-Felis&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nekocat-Felis&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nekocat-Felis&theme=gruvbox&utcOffset=9)
+
+## トロフィー
+![trophy](https://github-profile-trophy.vercel.app/?username=nekocat-Felis&theme=gruvbox)
