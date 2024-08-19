@@ -11,7 +11,7 @@
   <a href="http://qiita.com/nekocat-Felis">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nekocat-Felis/contributions.svg" />
   </a>
-  <a href="https://zenn.dev/nekocat-Felis">
+  <a href="https://zenn.dev/nekocatfelis">
     <img height="20" src="https://badgen.org/img/zenn/nekocatfelis/articles?style=plastic" />
   </a>
 </p>
